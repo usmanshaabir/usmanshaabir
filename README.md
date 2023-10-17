@@ -1,4 +1,4 @@
-### Hi there 👋
+<img align="right" margin-bottom="20px" alt="coding" height="400" width='100%' src="https://www.goodcore.co.uk/blog/wp-content/uploads/2019/08/coding-vs-programming-2.jpg">
 <h1 align="center">Hi 👋, I'm Nauman Shabbir</h1>
 <h3 align="center">I,m a MERN Stack Developer</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXCoQlHe5pKITrFDP4-oXB_p-j9G6Cqa-6xkxgZeaAg8aDeTEk6_kV-C15LqXuKlowPZ4&usqp=CAU">
